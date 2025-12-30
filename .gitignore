@@ -8,7 +8,6 @@ env/
 waste-ai/
 
 # Data & outputs
-data/
 runs/
 
 # OS
