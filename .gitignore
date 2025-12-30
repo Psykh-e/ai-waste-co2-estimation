@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+.venv/
+env/
+waste-ai/
+
+# Data & outputs
+data/
+runs/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Ignore all model files
+models/
+
